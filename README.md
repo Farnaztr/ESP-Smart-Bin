@@ -94,6 +94,3 @@ Upload the provided `esp_smartbin.ino` code to your NodeMCU.
 | Breadboard / Bin     | For prototyping & mounting |
 | 5V Power Source      | Powerbank / Adapter        |
 
----
-
-👩‍💻 Developed by Farnaz𓆩♡𓆪  
