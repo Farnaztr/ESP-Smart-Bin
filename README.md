@@ -18,22 +18,18 @@
 
 **ESP-SmartBin** is a hygienic and futuristic solution for **hands-free waste disposal**.  
 Using an **ultrasonic sensor (HC-SR04)**, the system detects when your hand is near and automatically opens the bin lid with a **servo motor**.  
-This makes throwing away trash more **sanitary, modern, and IoT-inspired**.  
-
-Perfect for:
-
-- 🏠 Smart homes  
-- 🏫 Schools & campuses  
-- 🏢 Offices & workplaces  
-- 👩‍🔬 IoT learning projects  
+This makes throwing away trash more **sanitary, modern, and IoT-inspired**. 
 
 ---
 
-## Demo
+## Project Photo  
 
-<p align="center">
-  <img src="smartbin_demo.jpg" width="750" alt="ESP-SmartBin Demo">
+<p align="center">  
+  <img src="photo.jpg" alt="ESP-SmartBin Demo" width="550">  
+  <br>  
+  <em>ESP-SmartBin</em>  
 </p>
+
 
 ---
 
@@ -99,3 +95,5 @@ Upload the provided `esp_smartbin.ino` code to your NodeMCU.
 | 5V Power Source      | Powerbank / Adapter        |
 
 ---
+
+👩‍💻 Developed by Farnaz𓆩♡𓆪  
