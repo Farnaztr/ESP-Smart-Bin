@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-ESP8266-black.svg)](#hardware)
 [![Built With](https://img.shields.io/badge/built%20with-C++-red.svg)](https://www.arduino.cc/)
 [![IoT](https://img.shields.io/badge/IoT-Project-pink.svg)](#overview)
-<img src="https://img.shields.io/github/stars/farnaztr/esp-smartbin?style=social" />
+<img src="https://img.shields.io/github/stars/farnaztr/ESP-SmartBin?style=social" />
 
 </div>
 
