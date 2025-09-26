@@ -25,7 +25,7 @@ This makes throwing away trash more **sanitary, modern, and IoT-inspired**.
 ## Project Photo  
 
 <p align="center">  
-  <img src="photo.jpg" alt="ESP-SmartBin Demo" width="550">  
+  <img src="photo.jpg" alt="ESP-SmartBin Demo" width="500">  
   <br>  
   <em>ESP-SmartBin</em>  
 </p>
